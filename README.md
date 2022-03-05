@@ -2,7 +2,7 @@
 Prácticas de intrducción para el curso LaunchX de Innovaccion Virtual.
 🤖
 
-# Las prácticas se realizarn siguiendo el siguiente caso: 
+# Las prácticas se realizaron siguiendo el siguiente caso: 
 Caso: Abogabot Descripción:
 
   • Es un despacho de abogados que quiere automatizar las demandas de sus clientes, esto lo harán a traves de una página web llenando un formulario.
